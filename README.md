@@ -65,6 +65,7 @@ git clone https://github.com/jebat730/thalacareapp.git
 
    Node Server.js
 
+download database file here : https://drive.google.com/file/d/1xhuvvYugtDIKVrfY7BRCzTBMAUJuDUzP/view?usp=drive_link
 
 
 # Contact
